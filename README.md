@@ -7,7 +7,7 @@ You cannot use any GUI in CLI mode in return for getting full access to GPU memo
 Command for set machine to CLI mode:
 
 ```
-sudo sh set-cli-mode
+sudo sh set-cli-mode.sh
 sudo reboot
 ```
 
@@ -15,7 +15,7 @@ sudo reboot
 Command for set machine to GUI mode:
 
 ```
-sudo sh set-gui-mode
+sudo sh set-gui-mode.sh
 sudo reboot
 ```
 
